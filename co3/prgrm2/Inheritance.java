@@ -33,11 +33,11 @@ Subject=sc.next();
 
 void display()
 {
-System.out.println("\nEmpid:"+super.Empid);
-System.out.println("\nName:"+super.Name);
-System.out.println("\nSalary:"+super.Salary);
-System.out.println("\nAddress:"+super.Address);
-System.out.println("\ndepartment:"+department);
+System.out.println("Empid:"+super.Empid);
+System.out.println("Name:"+super.Name);
+System.out.println("Salary:"+super.Salary);
+System.out.println("Address:"+super.Address);
+System.out.println("department:"+department);
 System.out.println("\nSubjects taught:"+Subject);
 System.out.println();
 }
